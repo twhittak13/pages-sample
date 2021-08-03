@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Home
 title: Home
 ---
 
@@ -11,3 +11,4 @@ title: Home
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
+- [My CU Profile](https://www.colorado.edu/chbe/todd-n-whittaker)
